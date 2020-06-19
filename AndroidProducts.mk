@@ -1,11 +1,11 @@
-LOCAL_PATH := device/samsung/j3ltectc
+LOCAL_PATH := device/samsung/j3ltespr
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_j3ltectc.mk \
-	$(LOCAL_DIR)/rr_j3ltectc.mk \
-	$(LOCAL_DIR)/pa_j3ltectc.mk \
-	$(LOCAL_DIR)/lineage_j3ltectc.mk
+	$(LOCAL_DIR)/omni_j3ltespr.mk \
+	$(LOCAL_DIR)/rr_j3ltespr.mk \
+	$(LOCAL_DIR)/pa_j3ltespr.mk \
+	$(LOCAL_DIR)/lineage_j3ltespr.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_j3ltectc-eng \
-    lineage_j3ltectc-userdebug \
-	lineage_j3ltectc-user
+    lineage_j3ltespr-eng \
+    lineage_j3ltespr-userdebug \
+	lineage_j3ltespr-user

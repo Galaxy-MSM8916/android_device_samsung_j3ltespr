@@ -19,7 +19,7 @@
 set -e
 
 # Required!
-export DEVICE=j3ltectc
+export DEVICE=j3ltespr
 export DEVICE_COMMON=j3-common
 export VENDOR=samsung
 
